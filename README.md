@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Malathi%20Shetty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20QA%20Engineer%20→%20DevOps%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20GitHub%20Actions&descAlignY=58&descSize=18"/>
 
-![](https://komarev.com/ghpvc/?username=shettymalathib&color=blue)
+
 
 <img src="https://github.com/shettymalathib/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg"/>
 
@@ -62,7 +62,7 @@ Currently, I'm strengthening my practical experience through the **CBC-BAN DevOp
 </p>
 
 <p align="left">
-AWS
+- AWS
 </p>
 
 ---
