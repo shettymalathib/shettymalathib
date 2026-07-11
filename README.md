@@ -271,20 +271,7 @@ Successfully completed the **90 Days of DevOps** challenge by building hands-on 
 
 ### Technologies Covered
 
-- Linux & Shell Scripting
-- Git & GitHub
-- Docker
-- Kubernetes
-- Helm
-- Kind
-- Minikube
-- Terraform
-- Ansible
-- Jenkins
-- GitHub Actions
-- AWS
-- Prometheus
-- Grafana
+`Linux & Shell Scripting` • `Git & GitHub` • `Docker` • `Kubernetes` • `Helm` • `Kind` • `Minikube` • `Terraform` • `Ansible` • `Jenkins` • `GitHub Actions` • `AWS` • `Prometheus` • `Grafana` 
 
 ---
 
