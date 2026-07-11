@@ -163,18 +163,25 @@ An end-to-end DevOps implementation for a Spring Boot banking application, demon
 
 A practical DevOps case study focused on optimizing Docker image builds and improving CI/CD efficiency using Docker best practices and GitLab CI/CD.
 
+Designed and implemented an end-to-end **DevSecOps CI/CD pipeline** that demonstrates secure, automated software delivery using modern DevOps practices. Starting from a Docker build optimization case study, the project evolved into an enterprise-style solution integrating CI/CD automation, code quality analysis, security scanning, artifact management, container registry publishing, and automated deployment.
+
 ### Technologies
 
-`Docker` • `GitLab CI/CD` • `Docker Build Cache` • `Multi-stage Builds`
+`Docker` • `Docker BuildKit` • `Multi-stage Builds` • `Docker Compose` • `Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `SonarCloud` • `Trivy` • `Nexus Repository` • `Docker Hub` • `Apache Tomcat` • `Maven` • `Java`
 
-### Highlights
+### Key Highlights
 
-- Optimized Docker image build performance
-- Reduced Docker image size using multi-stage builds
-- Improved build speed with Docker layer caching
-- Automated build pipelines using GitLab CI/CD
-- Applied Dockerfile optimization best practices
-- Documented build optimization techniques and performance improvements
+- Designed and implemented a complete **DevSecOps** CI/CD pipeline
+- Optimized Docker builds using multi-stage builds, BuildKit, and layer caching
+- Reduced production Docker image size by **28.5% (856 MB → 612 MB)**
+- Automated build, test, code quality analysis, security scanning, packaging, and deployment
+- Implemented CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **GitLab CI/CD**
+- Integrated **SonarCloud** for automated code quality analysis and Quality Gate validation
+- Performed automated container vulnerability scanning using **Trivy**
+- Published build artifacts to **Nexus Repository**
+- Published versioned Docker images to **Docker Hub**
+- Automated deployment of a Java WAR application to **Apache Tomcat**
+- Produced architecture diagrams, optimization reports, build metrics, and technical documentation following enterprise DevSecOps best practices
 
 ---
 
