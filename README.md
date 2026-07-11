@@ -4,9 +4,19 @@
 
 
 
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud;Kubernetes;Terraform;GitHub+Actions;Linux;CI%2FCD;Always+Learning"/>
+
+</p>
+
+
 <img src="https://github.com/shettymalathib/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg"/>
 
-<br>
+
+
+<br><br>
 
 <a href="https://linkedin.com/in/shettymalathib">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -135,8 +145,7 @@ Currently, I'm strengthening my practical experience through the **CBC-BAN DevOp
 
 ## 🏦 AI BankApp DevOps
 
-**Repository**  
-🔗 https://github.com/shettymalathib/AI-BankApp-DevOps
+
 
 An end-to-end DevOps implementation for a Spring Boot banking application, demonstrating modern software delivery using Docker, Kubernetes, Helm, Terraform, AWS EKS, and CI/CD automation.
 
@@ -154,12 +163,13 @@ An end-to-end DevOps implementation for a Spring Boot banking application, demon
 - Applied Infrastructure as Code (IaC) best practices
 - Worked with a production-style multi-tier application architecture
 
+🔗 **Repository:** [AI-BankApp-DevOps](https://github.com/shettymalathib/AI-BankApp-DevOps)
+
 ---
 
 ## 🚀 Docker Build Optimization Case Study
 
-**Repository**  
-🔗 https://github.com/shettymalathib/docker-build-optimization-case-study
+
 
 A practical DevOps case study focused on optimizing Docker image builds and improving CI/CD efficiency using Docker best practices and GitLab CI/CD.
 
@@ -183,12 +193,13 @@ Designed and implemented an end-to-end **DevSecOps CI/CD pipeline** that demonst
 - Automated deployment of a Java WAR application to **Apache Tomcat**
 - Produced architecture diagrams, optimization reports, build metrics, and technical documentation following enterprise DevSecOps best practices
 
+
+🔗 **Repository:** [Docker Build Optimization Case Study](https://github.com/shettymalathib/docker-build-optimization-case-study)
+
 ---
 
 ## ⚙️ GitHub Actions Capstone
 
-**Repository**  
-🔗 https://github.com/shettymalathib/github-actions-capstone
 
 A hands-on CI/CD project demonstrating automated software delivery using GitHub Actions and Docker.
 
@@ -204,12 +215,13 @@ A hands-on CI/CD project demonstrating automated software delivery using GitHub 
 - Implemented Continuous Integration workflows
 - Improved deployment automation
 
+
+🔗 **Repository:** [GitHub Actions Capstone](https://github.com/shettymalathib/github-actions-capstone)
+
 ---
 
 ## ☸️ GitHub Actions Kubernetes Masterclass
-
-**Repository**  
-🔗 https://github.com/shettymalathib/github-actions-kubernetes-masterclass
+ 
 
 A DevOps project demonstrating Kubernetes deployments automated through GitHub Actions.
 
@@ -225,12 +237,11 @@ A DevOps project demonstrating Kubernetes deployments automated through GitHub A
 - Managed Kubernetes manifests
 - Improved deployment consistency through automation
 
+🔗 **Repository:** [GitHub Actions Kubernetes Masterclass](https://github.com/shettymalathib/github-actions-kubernetes-masterclass)
+
 ---
 
 ## 🚀 CBC-BAN DevOps Internship
-
-**Repository**  
-🔗 https://github.com/shettymalathib/CBC-Ban-DevOps-Internship
 
 An ongoing hands-on DevOps internship focused on applying DevOps concepts through practical assignments, cloud technologies, automation, Infrastructure as Code, and CI/CD implementation.
 
@@ -246,12 +257,11 @@ An ongoing hands-on DevOps internship focused on applying DevOps concepts throug
 - Applying Infrastructure as Code principles
 - Strengthening Linux administration and cloud skills
 
+🔗 **Repository:** [CBC-BAN DevOps Internship](https://github.com/shettymalathib/CBC-Ban-DevOps-Internship)
+
 ---
 
 ## ☁️ 10 Weeks of AWS
-
-**Repository**  
-🔗 https://github.com/shettymalathib/10WeeksOfAWS
 
 An ongoing hands-on AWS learning journey focused on understanding core cloud services and implementing practical cloud solutions.
 
@@ -266,12 +276,14 @@ An ongoing hands-on AWS learning journey focused on understanding core cloud ser
 - Security Best Practices
 - Billing & Cost Management
 
+🔗 **Repository:** [10 Weeks of AWS](https://github.com/shettymalathib/10WeeksOfAWS)
+
 ---
 
 ## 📘 90 Days of DevOps
 
 **Repository**  
-🔗 https://github.com/shettymalathib/90DaysOfDevOps_TrainWithShubham
+🔗 
 
 Successfully completed the **90 Days of DevOps** challenge by building hands-on projects across the complete DevOps lifecycle, covering Linux administration, version control, containerization, Infrastructure as Code, CI/CD automation, cloud computing, monitoring, and Kubernetes.
 
@@ -292,6 +304,8 @@ Successfully completed the **90 Days of DevOps** challenge by building hands-on 
 - Implemented monitoring using Prometheus and Grafana
 - Strengthened real-world DevOps practices through daily hands-on learning
 
+🔗 **Repository:** [90 Days of DevOps](https://github.com/shettymalathib/90DaysOfDevOps_TrainWithShubham)
+
 ---
 
 # 📊 GitHub Statistics
@@ -302,6 +316,14 @@ Successfully completed the **90 Days of DevOps** challenge by building hands-on 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shettymalathib&theme=tokyonight"/>
 
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
