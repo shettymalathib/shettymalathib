@@ -61,9 +61,8 @@ Currently, I'm strengthening my practical experience through the **CBC-BAN DevOp
 <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
-<p align="left">
+
 - AWS
-</p>
 
 ---
 
@@ -267,11 +266,24 @@ An ongoing hands-on AWS learning journey focused on understanding core cloud ser
 **Repository**  
 🔗 https://github.com/shettymalathib/90DaysOfDevOps_TrainWithShubham
 
-Successfully completed the **90 Days of DevOps** challenge by building hands-on projects covering the complete DevOps lifecycle, from Linux administration to cloud deployments, Infrastructure as Code, CI/CD automation, monitoring, and container orchestration.
+Successfully completed the **90 Days of DevOps** challenge by building hands-on projects across the complete DevOps lifecycle, covering Linux administration, version control, containerization, Infrastructure as Code, CI/CD automation, cloud computing, monitoring, and Kubernetes.
 
-### Technologies Covered
+### Technologies
 
-`Linux & Shell Scripting` • `Git & GitHub` • `Docker` • `Kubernetes` • `Helm` • `Kind` • `Minikube` • `Terraform` • `Ansible` • `Jenkins` • `GitHub Actions` • `AWS` • `Prometheus` • `Grafana` 
+`Linux` • `Bash` • `Git` • `GitHub` • `Docker` • `Kubernetes` • `Helm` • `Kind` • `Minikube` • `Terraform` • `Ansible` • `Jenkins` • `GitHub Actions` • `AWS` • `Prometheus` • `Grafana`
+
+### Highlights
+
+- Successfully completed the **90 Days of DevOps** hands-on learning challenge
+- Built practical projects covering the complete DevOps lifecycle
+- Worked extensively with Linux, Bash scripting, Git, and GitHub
+- Containerized applications using Docker
+- Deployed applications on Kubernetes using Helm, Kind, and Minikube
+- Provisioned infrastructure using Terraform and Ansible
+- Built CI/CD pipelines using Jenkins and GitHub Actions
+- Gained hands-on experience with AWS cloud services
+- Implemented monitoring using Prometheus and Grafana
+- Strengthened real-world DevOps practices through daily hands-on learning
 
 ---
 
